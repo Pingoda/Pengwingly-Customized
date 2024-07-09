@@ -15,5 +15,5 @@
 ### Pengwingly Customized is meant to work on any Server without needing the Mods on the Server or risking the ban, but make sure that the Mods in Pengwingly Customized are allowed since different Servers may have different rules!
 
 ![Help & Support](https://cdn.modrinth.com/data/cached_images/3ec08f2fbf5d686c0dc03c428022a84c57d4c258.png)
-### Pengwingly Customized is meant to be a ModPack for everyone, if you want a specific feature in the ModPack make sure to let me know through [GitHub](https://github.com/Pingoda/Pengwingly-Customized) (WIP) or Discord (soon™), and I'll see if it's possible!
-If you need any help with the ModPack (bear in mind I won't be helping you if you modify the ModPack) make sure to check out the [GitHub Repo](https://github.com/Pingoda/Pengwingly-Customized) (WIP) or the Discord (soon™) for anything that you might need!
+### Pengwingly Customized is meant to be a ModPack for everyone, if you want a specific feature in the ModPack make sure to let me know through [GitHub](https://github.com/Pingoda/Pengwingly-Customized) or Discord (soon™), and I'll see if it's possible!
+If you need any help with the ModPack (bear in mind I won't be helping you if you modify the ModPack) make sure to check out the [GitHub Repo](https://github.com/Pingoda/Pengwingly-Customized) or the Discord (soon™) for anything that you might need!
